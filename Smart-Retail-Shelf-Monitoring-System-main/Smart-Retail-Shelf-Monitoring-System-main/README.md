@@ -99,6 +99,6 @@ python -m streamlit run app.py
 
 **Amlan Pruthijeet**
 
-### Academic Mini Project
+### Internship(Outskill) Project
 
 **Domain:** Artificial Intelligence & Computer Vision
